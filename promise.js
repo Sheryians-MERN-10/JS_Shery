@@ -1,3 +1,7 @@
+/*
+- sirf fetch mein hi two then lagta hai
+*/
+
 
 function evenChecker(n) {
     return new Promise((resolve, reject) => {
