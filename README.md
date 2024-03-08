@@ -9,7 +9,7 @@
 - [6: Error Handling](#section-6-error-handling)
 - [7: ES6 and Beyond](#section-7-es6-and-beyond)
 - [8: AJAX and Fetch API](#section-8-ajax-and-fetch-api)
-- [9: JavaScript Libraries and Frameworks](#section-9-javascript-libraries-and-frameworks)
+- [9: JavaScript Libraries and Frameworks](###section-9-javascript-libraries-and-frameworks)
 - [10: Introduction to Node.js](#section-10-introduction-to-nodejs)
 - [11: Testing and Debugging](#section-11-testing-and-debugging)
 - [12: Advanced JavaScript Concepts (Optional)](#section-12-advanced-javascript-concepts-optional)
