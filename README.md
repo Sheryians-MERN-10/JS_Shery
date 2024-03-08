@@ -1,104 +1,118 @@
-# JS_Shery
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+## JavaScript Full Syllabus
 
+- [1: Introduction to JavaScript](#section-1-introduction-to-javascript)
+- [2: JavaScript Basics](#section-2-javascript-basics)
+- [3: Arrays and Objects](#section-3-arrays-and-objects)
+- [4: Document Object Model (DOM)](#section-4-document-object-model-dom)
+- [5: Asynchronous JavaScript](#section-5-asynchronous-javascript)
+- [6: Error Handling](#section-6-error-handling)
+- [7: ES6 and Beyond](#section-7-es6-and-beyond)
+- [8: AJAX and Fetch API](#section-8-ajax-and-fetch-api)
+- [9: JavaScript Libraries and Frameworks](#section-9-javascript-libraries-and-frameworks)
+- [10: Introduction to Node.js](#section-10-introduction-to-nodejs)
+- [11: Testing and Debugging](#section-11-testing-and-debugging)
+- [12: Advanced JavaScript Concepts (Optional)](#section-12-advanced-javascript-concepts-optional)
+- [13: Building Real-world Projects](#section-13-building-real-world-projects)
 
-Section 1: Introduction to JavaScript
-1.	Overview of JavaScript
-2.	History and evolution
-3.	Basic syntax and structure
-4.	Setting up development environment
+<!-- TOC end -->
 
-Section 2: JavaScript Basics
-1.	Variables and data types
-2.	Operators and expressions
-3.	Control structures (if, else, switch)
-4.	Loops (for, while, do-while)
-5.	Functions
+### 1: Introduction to JavaScript
+- Overview of JavaScript
+- History and evolution
+- Basic syntax and structure
+- Setting up development environment
 
-    -	Declaration
-    -	Parameters and arguments
-    -	Return values
-    -	Function scope
-    -	Arrow functions
-    -	Function expressions
+### 2: JavaScript Basics
+- Variables and data types
+- Operators and expressions
+- Control structures (if, else, switch)
+- Loops (for, while, do-while)
+- Functions
+  - Declaration
+  - Parameters and arguments
+  - Return values
+  - Function scope
+  - Arrow functions
+  - Function expressions
 
-Section 3: Arrays and Objects
-1.	Arrays
-    -	Creating arrays
-    -	Accessing elements
-    -	Array methods (forEach, map, filter, reduce)
-2.	Objects
-    -	Creating objects
-    -	Accessing properties
-    -	Object methods
-    -	Constructors and prototypes
-    -	Object-oriented programming (OOP) concepts
+### 3: Arrays and Objects
+- Arrays
+  - Creating arrays
+  - Accessing elements
+  - Array methods (forEach, map, filter, reduce)
+- Objects
+  - Creating objects
+  - Accessing properties
+  - Object methods
+  - Constructors and prototypes
+  - Object-oriented programming (OOP) concepts
 
-Section 4: Document Object Model (DOM)
-1.	Introduction to DOM
-2.	DOM manipulation
-3.	Events
-4.	Event handling
-5.	Event delegation
+### 4: Document Object Model (DOM)
+- Introduction to DOM
+- DOM manipulation
+- Events
+- Event handling
+- Event delegation
 
-Section 5: Asynchronous JavaScript
-1.	Introduction to asynchronous programming
-2.	Callbacks
-3.	Promises
-    -	Creating and consuming promises
-    -	Chaining promises
-    -	Error handling with promises
-4.	Async/Await
+### 5: Asynchronous JavaScript
+- Introduction to asynchronous programming
+- Callbacks
+- Promises
+  - Creating and consuming promises
+  - Chaining promises
+  - Error handling with promises
+- Async/Await
 
-Section 6: Error Handling
-1.	Types of errors
-2.	Try-catch blocks
-3.	Throwing custom errors
+### 6: Error Handling
+- Types of errors
+- Try-catch blocks
+- Throwing custom errors
 
-Section 7: ES6 and Beyond
-1.	Introduction to ECMAScript 6 (ES6)
-2.	Arrow functions
-3.	Template literals
-4.	Destructuring assignments
-5.	Default parameters
-6.	Rest and spread operators
-7.	Modules (import/export)
+### 7: ES6 and Beyond
+- Introduction to ECMAScript 6 (ES6)
+- Arrow functions
+- Template literals
+- Destructuring assignments
+- Default parameters
+- Rest and spread operators
+- Modules (import/export)
 
-Section 8: AJAX and Fetch API
-1.	Introduction to AJAX
-2.	XMLHttpRequest
-3.	Fetch API
-4.	Handling responses (JSON, XML)
-5.	Error handling
+### 8: AJAX and Fetch API
+- Introduction to AJAX
+- XMLHttpRequest
+- Fetch API
+- Handling responses (JSON, XML)
+- Error handling
 
-Section 9: JavaScript Libraries and Frameworks
-1.	Introduction to popular libraries (jQuery, Lodash)
-2.	Introduction to frontend frameworks (React.js, Vue.js, Angular)
-3.	Basics of using libraries and frameworks
-4.	Single-page applications (SPAs)
+### 9: JavaScript Libraries and Frameworks
+- Introduction to popular libraries (jQuery, Lodash)
+- Introduction to frontend frameworks (React.js, Vue.js, Angular)
+- Basics of using libraries and frameworks
+- Single-page applications (SPAs)
 
-Section 10: Introduction to Node.js
-1.	Overview of Node.js
-2.	Setting up Node.js environment
-3.	Creating and running Node.js applications
-4.	Handling file I/O
-5.	Introduction to npm (Node Package Manager)
+### 10: Introduction to Node.js
+- Overview of Node.js
+- Setting up Node.js environment
+- Creating and running Node.js applications
+- Handling file I/O
+- Introduction to npm (Node Package Manager)
 
-Section 11: Testing and Debugging
-1.	Introduction to testing frameworks (Jasmine, Mocha)
-2.	Writing unit tests
-3.	Debugging JavaScript code
-4.	Using browser developer tools
+### 11: Testing and Debugging
+- Introduction to testing frameworks (Jasmine, Mocha)
+- Writing unit tests
+- Debugging JavaScript code
+- Using browser developer tools
 
-Section 12: Advanced JavaScript Concepts (Optional)
-1.	Closures
-2.	Prototypes and inheritance
-3.	Design patterns (Singleton, Factory, Module)
-4.	Functional programming concepts (map, reduce, filter)
-5.	Memory management
+### 12: Advanced JavaScript Concepts (Optional)
+- Closures
+- Prototypes and inheritance
+- Design patterns (Singleton, Factory, Module)
+- Functional programming concepts (map, reduce, filter)
+- Memory management
 
-Section 13: Building Real-world Projects
-1.	Applying JavaScript concepts to real-world scenarios
-2.	Building interactive web applications
-3.	Working with APIs
-4.	Integrating with backend services
-
+### 13: Building Real-world Projects
+- Applying JavaScript concepts to real-world scenarios
+- Building interactive web applications
+- Working with APIs
+- Integrating with backend services

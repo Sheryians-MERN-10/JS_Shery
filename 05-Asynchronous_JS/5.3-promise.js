@@ -26,4 +26,3 @@ evenChecker(7)
         console.error(err + "THis is custom err");
     })
 
-    
