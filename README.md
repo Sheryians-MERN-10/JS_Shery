@@ -1,19 +1,19 @@
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 ## JavaScript Full Syllabus
 
-- [1: Introduction to JavaScript](#section-1-introduction-to-javascript)
-- [2: JavaScript Basics](#section-2-javascript-basics)
-- [3: Arrays and Objects](#section-3-arrays-and-objects)
-- [4: Document Object Model (DOM)](#section-4-document-object-model-dom)
-- [5: Asynchronous JavaScript](#section-5-asynchronous-javascript)
-- [6: Error Handling](#section-6-error-handling)
-- [7: ES6 and Beyond](#section-7-es6-and-beyond)
-- [8: AJAX and Fetch API](#section-8-ajax-and-fetch-api)
-- [9: JavaScript Libraries and Frameworks](###section-9-javascript-libraries-and-frameworks)
-- [10: Introduction to Node.js](#section-10-introduction-to-nodejs)
-- [11: Testing and Debugging](#section-11-testing-and-debugging)
-- [12: Advanced JavaScript Concepts (Optional)](#section-12-advanced-javascript-concepts-optional)
-- [13: Building Real-world Projects](#section-13-building-real-world-projects)
+- [1: Introduction to JavaScript](#1-introduction-to-javascript)
+- [2: JavaScript Basics](#2-javascript-basics)
+- [3: Arrays and Objects](#3-arrays-and-objects)
+- [4: Document Object Model (DOM)](#4-document-object-model-dom)
+- [5: Asynchronous JavaScript](#5-asynchronous-javascript)
+- [6: Error Handling](#6-error-handling)
+- [7: ES6 and Beyond](#7-es6-and-beyond)
+- [8: AJAX and Fetch API](#8-ajax-and-fetch-api)
+- [9: JavaScript Libraries and Frameworks](#9-javascript-libraries-and-frameworks)
+- [10: Introduction to Node.js](#10-introduction-to-nodejs)
+- [11: Testing and Debugging](#11-testing-and-debugging)
+- [12: Advanced JavaScript Concepts (Optional)](#12-advanced-javascript-concepts-optional)
+- [13: Building Real-world Projects](#13-building-real-world-projects)
 
 <!-- TOC end -->
 
