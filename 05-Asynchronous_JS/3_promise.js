@@ -16,14 +16,17 @@ function evenChecker(n) {
     })
 }
 
-// console.log(evenChecker(4)); // not a good practice
+// console.log(evenChecker(4)); // ⛔ not a good practice
 
 evenChecker(7)
     .then((res) => {
         console.log(res);
     })
     .catch((err) => {
-        console.error(err + "THis is custom err");
+        console.error(err + " This is custom err");
+    })
+    .finally(() => {
+        console.log("Promise settled.");
     })
 
 console.log('Hello')

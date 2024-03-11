@@ -96,6 +96,6 @@ try {
     // Catch block to handle any errors
     console.error("Caught an error:", error.message);
 } finally {
-    // Finally block will always execute, regardless of whether there's an error or not
+    // ⭐ Finally block will always execute, regardless of whether there's an error or not
     console.log("Inside finally block");
 }
