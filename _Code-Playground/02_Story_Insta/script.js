@@ -62,6 +62,10 @@ let handle_dp = async () => {
             setTimeout(() => {
                 fullStory.style.display = 'none';
             }, 1500);
+            
+            fullStory.addEventListener('click', () => {
+                fullStory.style.display = 'none';                
+            })
         })
     })
 
