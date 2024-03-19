@@ -1,0 +1,2 @@
+This is DEMO Txt
+To be used by fetch api.

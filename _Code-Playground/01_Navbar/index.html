@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navbar</title>
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css" rel="stylesheet" />
+    <link rel="stylesheet" href="main.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body>
+
+    <nav class="w-[100%] h-[8rem] fs-1 bg-teal-500 relative flex justify-end ease-linear duration-200">
+        <div class="absolute top-5  flex right-5 mr-8 text-4xl h-10 w-10"> 
+            <i id="menu" class="ease-linear menu absolute  ri-menu-line"></i>
+            <i id="cross" class="ease-linear absolute invisible ri-close-circle-fill"></i>
+        </div>
+
+        <div class="w-[100%] flex justify-center">
+            <ul class=" gap-8 font-bold flex justify-center items-center text-3xl invisible md:visible text-center ">
+                <li>Home</li>
+                <li>About</li>
+                <li>Contact</li>
+                <li>Login</li>
+                <li>Register</li>
+            </ul>
+        </div>
+            
+    </nav>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

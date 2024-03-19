@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.menu-handle{
+    background-color: red;
+}
+
+li{
+    cursor: pointer;
+    transition: 0.3s all ease;
+}
+li:hover{
+    scale: 1.1;
+    color:white;
+}
+
+i{
+    transition: 0.3s all linear;
+}
