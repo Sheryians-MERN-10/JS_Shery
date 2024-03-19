@@ -16,7 +16,7 @@ body,html{
 }
 
 #dp-scroll::-webkit-scrollbar-thumb {
-    background-color: #ccc;
+    background-color: #8a8a8a;
     /* Adjust the color as needed */
     border-radius: 4px;
 }
@@ -24,4 +24,18 @@ body,html{
 #dp-scroll::-webkit-scrollbar-track {
     background-color: #f1f1f1;
     /* Adjust the color as needed */
+}
+
+/* TIMER ANIMATION */
+#timer {
+    animation: statusTimer 1.5s linear 0s infinite;
+}
+
+@keyframes statusTimer {
+    0%{
+        width: 100%;
+    }
+    100%{
+        width: 0;
+    }
 }
