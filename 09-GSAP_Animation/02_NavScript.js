@@ -51,12 +51,13 @@ tl.from('#cross', {
     opacity: 0, // Start with opacity 0
     duration: 0.3, 
 })
+
 // Repeat the timeline once (initial run + 1 = 2 times)
-tl.repeat(1);
+// tl.repeat(1);
 
 
 // Pause the timeline
-// tl.pause();
+tl.pause();
 
 // Resume the timeline, triggering animations from the paused state
 // tl.resume();
@@ -66,7 +67,6 @@ tl.repeat(1);
 
 // Reverse the timeline, playing animations backwards
 // tl.reverse();
-
 
     // Selecting the elements with ids 'hamburger' and 'cross'
     let hambur = document.querySelector("#hamburger");
@@ -78,15 +78,17 @@ tl.repeat(1);
         hambur.classList.add('invisible');
         // Show the cross icon
         cross.classList.remove('invisible');
-        // Resume the timeline, triggering animations
-        tl.resume();
-
+        
+        // Play the timeline
+        tl.play();    
     })
-
+    
     // Adding a click event listener to the cross icon
     cross.addEventListener('click', function () {
         // Show the hamburger icon
         hambur.classList.remove('invisible');
         // Reverse the timeline, playing animations backwards
         tl.reverse();
+
+        // cross.classList.add('invisible');
     })
