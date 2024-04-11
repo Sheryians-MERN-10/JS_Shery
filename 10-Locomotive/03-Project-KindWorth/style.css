@@ -1,0 +1,12 @@
+@font-face {
+    font-family: larken;
+    src: url('/assets/fonts/LarkenDEMO-Regular.otf');
+}
+
+#hamburger:hover #line2{
+    transform: rotate(90deg);
+    position: absolute;
+}
+#hamburger:hover #hamburger-in{
+    width: 4rem;
+}
