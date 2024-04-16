@@ -3,10 +3,21 @@
     src: url('/assets/fonts/LarkenDEMO-Regular.otf');
 }
 
+html,body{
+    width: 100%;
+    min-height: 100vh;
+}
+
 #hamburger:hover #line2{
     transform: rotate(90deg);
     position: absolute;
 }
 #hamburger:hover #hamburger-in{
-    width: 4rem;
+    width: 4rem;    
+}
+
+:root{
+    --clr-primary: #ac9376;
+    --clr-secondary: #24262b;
+    --clr-gray: #ede9e2;
 }
